@@ -10,6 +10,7 @@ Introduction to C programming language.
 **Results Required**  
 *Processing*  
 *Solutions & Alternatives*  
-~~Problems~~  
-```bash
+~~Problems~~ 
+#### Git Status  
+'''bash  
 git status
