@@ -11,6 +11,13 @@ Introduction to C programming language.
 *Processing*  
 *Solutions & Alternatives*  
 ~~Problems~~ 
+
 #### Git Status  
 '''bash  
 git status
+
+##### Task List
+- [x] Analyze the problem  
+- [x] Create a PAC   
+- [x] Complete the PAC  
+- [ ] Write the code
