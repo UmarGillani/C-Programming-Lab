@@ -5,3 +5,11 @@ Introduction to C programming language.
 - java
 * c++
 - c
+### Probleam Analysis Chart (PAC)
+**Data Given**  
+**Results Required**  
+*Processing*  
+*Solutions & Alternatives*  
+~~Problems~~  
+```bash
+git status
